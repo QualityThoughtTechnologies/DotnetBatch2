@@ -14,20 +14,22 @@ namespace EvenNumberDemo
 
             //checking for all invalid value
 
-            number = 0;
+            //number = 0;
             if (number>0)
             {
-                if (number % 2 == 0)
-                {
-                    Console.WriteLine("Even Number");
-                }
+                //if (number % 2 == 0)
+                //{
+                //    Console.WriteLine("Even Number");
+                //}
 
-                //note: The else is commented to check different if statement
-                //else
-                if (number % 2 != 0)
-                {
-                    Console.WriteLine("Odd Number");
-                } 
+                ////note: The else is commented to check different if statement
+                ////else
+                //if (number % 2 != 0)
+                //{
+                //    Console.WriteLine("Odd Number");
+                //}
+
+                Console.WriteLine(number % 2 == 0 ? "Even Number" : "Odd Number");
             }
             else
             {
