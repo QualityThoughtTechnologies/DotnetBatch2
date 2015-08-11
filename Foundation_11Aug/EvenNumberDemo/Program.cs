@@ -11,17 +11,30 @@ namespace EvenNumberDemo
         static void Main(string[] args)
         {
             int number = 76;
-            if(number%2==0)
+
+            //checking for all invalid value
+
+            number = 0;
+            if (number>0)
             {
-                Console.WriteLine("Even Number");
+                if (number % 2 == 0)
+                {
+                    Console.WriteLine("Even Number");
+                }
+
+                //note: The else is commented to check different if statement
+                //else
+                if (number % 2 != 0)
+                {
+                    Console.WriteLine("Odd Number");
+                } 
+            }
+            else
+            {
+                Console.WriteLine("Please enter positive integers");
             }
 
-            //note: The else is commented to check different if statement
-            //else
-            if(number%2!=0)
-            {
-                Console.WriteLine("Odd Number");
-            }
+            
         }
     }
 }
