@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileDemo", "DoWhileDemo\DoWhileDemo.csproj", "{1A1D93CC-FB63-4521-AC8B-55220950B2AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEulerProblem1", "ProjectEulerProblem1\ProjectEulerProblem1.csproj", "{9B98FB30-7640-4AC6-9C2D-F0FAD97ED494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialDemo", "FactorialDemo\FactorialDemo.csproj", "{B20C9EAD-6769-4458-B37D-E7CF7D4F7BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1D93CC-FB63-4521-AC8B-55220950B2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1D93CC-FB63-4521-AC8B-55220950B2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1D93CC-FB63-4521-AC8B-55220950B2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1D93CC-FB63-4521-AC8B-55220950B2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B98FB30-7640-4AC6-9C2D-F0FAD97ED494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B98FB30-7640-4AC6-9C2D-F0FAD97ED494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B98FB30-7640-4AC6-9C2D-F0FAD97ED494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B98FB30-7640-4AC6-9C2D-F0FAD97ED494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20C9EAD-6769-4458-B37D-E7CF7D4F7BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20C9EAD-6769-4458-B37D-E7CF7D4F7BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20C9EAD-6769-4458-B37D-E7CF7D4F7BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20C9EAD-6769-4458-B37D-E7CF7D4F7BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
