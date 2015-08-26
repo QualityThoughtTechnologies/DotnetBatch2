@@ -23,15 +23,31 @@ namespace ConstructorDemo
 
         public string EngineCapacity { set; get; }
 
+        private static int petrolTanks=1;
+
+        public static  int PetrolTanks
+        {
+            get { return petrolTanks; }
+            set { petrolTanks = value; }
+        }
+        
         public void Display()
         {
             Console.WriteLine("Model is {0} & Engine Capacity is {1}",Model, EngineCapacity);
+            DisplayPetrolTanks();
         }
 
         public void Display(string sponsor)
         {
             Display();
             Console.WriteLine("Sponsered by {0}", sponsor);
+        }
+
+        public static void DisplayPetrolTanks()
+        {
+            Console.WriteLine("Petrol tanks : {0}",PetrolTanks);
+            
+            //Display();
         }
     }
 }

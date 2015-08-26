@@ -12,6 +12,7 @@ namespace ConstructorDemo
         {
             Bike bike1 = new Bike();
             bike1.Display();
+            Bike.PetrolTanks = 2;
             bike1.EngineCapacity = "250cc";
             bike1.Model = "2014";
             //DisplayBikeINfo(bike1);
