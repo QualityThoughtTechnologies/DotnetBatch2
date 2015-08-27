@@ -11,7 +11,7 @@ namespace ConstructorDemo
         static void Main(string[] args)
         {
             Bike bike1 = new Bike();
-            bike1.Display();
+            //bike1.Display();
             Bike.PetrolTanks = 2;
             bike1.EngineCapacity = "250cc";
             bike1.Model = "2014";
@@ -20,8 +20,17 @@ namespace ConstructorDemo
             //bike1.Display();
             Bike bike2 = new Bike("2014", "350cc");
             //DisplayBikeINfo(bike2);
-            bike2.Display();
-            bike2.Display("DLF");
+            //bike2.Display();
+            //bike2.Display("DLF");
+            ParkingStation p = new ParkingStation(2);
+            p.Park(bike1);
+            p.Park(bike2);
+            p.UnPark(0);
+            Bike bike3 = new Bike();
+            p.Park(bike3);
+            p.Park(bike2);
+
+
 
         }
 

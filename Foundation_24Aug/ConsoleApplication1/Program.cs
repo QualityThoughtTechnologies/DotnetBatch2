@@ -10,6 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Factors(35);
+            return;
             int maxNumber = 20;
             int largestPossibleValue=1;
             for(int index=1;index<=maxNumber;index++)
@@ -39,6 +41,36 @@ namespace ConsoleApplication1
             }
             Console.WriteLine(number);
 
+        }
+
+        static bool IsPrime(int number)
+        {
+            bool isPrime = true;
+            for(int index=2;index<number/2+1;index++)
+            {
+                if(number%index==0)
+                {
+                    isPrime = false;
+                    break;
+                }
+
+            }
+            return isPrime;
+        }
+
+        static void Factors(int number)
+        {
+
+            for(int index=2;index<number/2+1;index++)
+            {
+                if(number%index==0)
+                {
+                    if(IsPrime(index))
+                    {
+                        Console.WriteLine(index);
+                    }
+                }
+            }
         }
     }
 }
