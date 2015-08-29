@@ -30,6 +30,12 @@ namespace ConstructorDemo
             p.Park(bike3);
             p.Park(bike2);
 
+            ParkingStation dynamicParkingStation = new ParkingStation();
+            dynamicParkingStation.Park(bike1,true);
+            dynamicParkingStation.Park(bike2,true);
+            dynamicParkingStation.Park(bike3,true);
+
+
 
 
         }

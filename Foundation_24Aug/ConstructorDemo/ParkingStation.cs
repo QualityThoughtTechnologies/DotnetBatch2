@@ -15,6 +15,10 @@ namespace ConstructorDemo
             this.size = size;
             bikes = new Bike[size];
         }
+        public ParkingStation()
+        {
+            this.size = 0;
+        }
 
         public void Park(Bike bike)
         {
@@ -35,6 +39,40 @@ namespace ConstructorDemo
             else
             {
                 Console.WriteLine("ParkingStation Full");
+            }
+        }
+
+        public void Park(Bike bike,bool isDynamic)
+        {
+            if(!isDynamic)
+            {
+                Park(bike);
+            }
+            else
+            {
+                int length;
+                if(bikes==null)
+                {
+                    length = 1;
+                }
+                else
+                {
+                    length = bikes.Length + 1;
+                }
+                //length = bikes == null ? 1 : bikes.Length + 1;
+                Bike[] tempBikes = new Bike[length];
+                if(bikes!=null)
+                {
+                    for (int index = 0; index < bikes.Length; index++)
+                    {
+                        tempBikes[index] = bikes[index];
+                    }
+                }
+                
+                tempBikes[tempBikes.Length - 1] = bike;
+                Console.WriteLine("Bike id parked at {0}", currentFreeLocation);
+                currentFreeLocation++;
+                bikes = tempBikes;
             }
         }
 

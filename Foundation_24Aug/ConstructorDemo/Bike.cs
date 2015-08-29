@@ -25,6 +25,8 @@ namespace ConstructorDemo
 
         private static int petrolTanks=1;
 
+        public string RegNo { set; get; }
+
         public static  int PetrolTanks
         {
             get { return petrolTanks; }
