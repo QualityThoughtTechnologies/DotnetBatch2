@@ -29,18 +29,26 @@ namespace LoginForm
                 MessageBox.Show(this, "Please enter  user Name and Password", "Error", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
                 txtusrname.Clear();
                 txtPassword.Clear();
+                txtusrname.Focus();
             }
             else
             {
                 if (txtusrname.Text == "admin" || txtusrname.Text == "ADMIN" && txtPassword.Text == "admin")
                 {
                     MessageBox.Show(this, "Login Successfully", "Login status", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    txtusrname.Clear();
+                    txtPassword.Clear();
                 }
                 else
                 {
                     MessageBox.Show(this, "Invalid user Name and Password", "Login Error", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
                     txtusrname.Clear();
                     txtPassword.Clear();
+                    txtusrname.Focus();
+
+
+
+
                 }
             }
         }
@@ -54,5 +62,11 @@ namespace LoginForm
         {
 
         }
+
+        private void btnOk_Enter(object sender, EventArgs e)
+        {
+            }
+        }
     }
-}
+
+

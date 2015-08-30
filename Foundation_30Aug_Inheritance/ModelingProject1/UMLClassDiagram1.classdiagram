@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="b592d05b-a9c7-44fa-940f-e9fa61e93fa8" name="UMLClassDiagram1" linkedPackageId="5bae28db-260a-4e6d-8913-109efdc633bd" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="9180b12a-6594-4183-b6c8-b9d543f4cc2c">
+      <profileInstance Id="ea572af5-56ec-497b-8f7c-ca3d695c80fe" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="8a1ac325-01ad-4f53-822e-99bd652276ff">
+      <profileInstance Id="d2864e40-fb57-42e9-90e2-bfcb3329a5eb" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="9f9c0bd5-d131-4412-8969-17f4890698fa" name="Product" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="3ba21ab2-347d-4fe5-8d31-4edfcbdb6ffd" />
+        <ownedOperationsInternal>
+          <operation Id="94d8dfd4-3a53-444c-9e5f-b3019bf1d5ba" name="Purchase" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="8b5dbbd1-b9bd-4806-aaae-ada539ab303a" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="53daf5d1-9d03-43bd-bc72-b48e3470942e" name="ElectronicProduct" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="e9f9ae3e-ed8c-4e77-8110-f9dbc939e058" />
+        <generalsInternal>
+          <generalization Id="a5a8ae39-93ed-4eeb-b0a2-61e545ca804d" isSubstitutable="false">
+            <classMoniker Id="9f9c0bd5-d131-4412-8969-17f4890698fa" LastKnownName="Product" />
+            <elementDefinition Id="86475bb9-de93-4475-a685-de107810eebb" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="42953fbf-ea29-428b-848c-0ed2e7ff464a" name="OtherProduct" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="5e25bcb3-8ba9-4bf8-8a2d-01529bbfdcea" />
+        <generalsInternal>
+          <generalization Id="0f962470-3d7f-421a-9864-61468c59a50c" isSubstitutable="false">
+            <classMoniker Id="9f9c0bd5-d131-4412-8969-17f4890698fa" LastKnownName="Product" />
+            <elementDefinition Id="5a22babf-23f7-43d4-bced-ce9df1fe806d" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="5bae28db-260a-4e6d-8913-109efdc633bd" name="ModelingProject1">
+    <elementDefinition Id="7f04992e-33c2-48c2-b55c-9dfa0e60ef2f" />
+  </package>
+</logicalClassDesignerModel>
