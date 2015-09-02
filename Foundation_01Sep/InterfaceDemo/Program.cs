@@ -27,6 +27,12 @@ namespace InterfaceDemo
             currentAccount.Withdraw(15000);
             DisplayBalance(currentAccount);
 
+            savingsAccount.Transaction = new MyTransaction();
+            savingsAccount.Transfer(currentAccount, 100);
+            DisplayBalance(savingsAccount);
+            DisplayBalance(currentAccount);
+            
+
 
 
         }
