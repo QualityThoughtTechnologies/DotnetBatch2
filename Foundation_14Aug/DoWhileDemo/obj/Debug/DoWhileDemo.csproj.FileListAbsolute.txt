@@ -1,0 +1,6 @@
+D:\DotnetBatch2\Foundation_14Aug\DoWhileDemo\bin\Debug\DoWhileDemo.exe.config
+D:\DotnetBatch2\Foundation_14Aug\DoWhileDemo\bin\Debug\DoWhileDemo.exe
+D:\DotnetBatch2\Foundation_14Aug\DoWhileDemo\bin\Debug\DoWhileDemo.pdb
+D:\DotnetBatch2\Foundation_14Aug\DoWhileDemo\obj\Debug\DoWhileDemo.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_14Aug\DoWhileDemo\obj\Debug\DoWhileDemo.exe
+D:\DotnetBatch2\Foundation_14Aug\DoWhileDemo\obj\Debug\DoWhileDemo.pdb

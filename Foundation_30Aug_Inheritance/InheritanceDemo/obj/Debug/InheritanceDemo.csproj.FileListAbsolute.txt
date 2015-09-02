@@ -1,0 +1,8 @@
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\InheritanceDemo\obj\Debug\InheritanceDemo.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\InheritanceDemo\bin\Debug\ProductLibrary.dll
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\InheritanceDemo\bin\Debug\ProductLibrary.pdb
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

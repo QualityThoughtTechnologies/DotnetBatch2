@@ -1,0 +1,5 @@
+D:\DotnetBatch2\Foundation_14Aug\FactorialDemo\bin\Debug\FactorialDemo.exe.config
+D:\DotnetBatch2\Foundation_14Aug\FactorialDemo\bin\Debug\FactorialDemo.exe
+D:\DotnetBatch2\Foundation_14Aug\FactorialDemo\bin\Debug\FactorialDemo.pdb
+D:\DotnetBatch2\Foundation_14Aug\FactorialDemo\obj\Debug\FactorialDemo.exe
+D:\DotnetBatch2\Foundation_14Aug\FactorialDemo\obj\Debug\FactorialDemo.pdb

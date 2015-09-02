@@ -1,0 +1,6 @@
+D:\DotnetBatch2\Foundation_14Aug\ProjectEulerProblem1\bin\Debug\ProjectEulerProblem1.exe.config
+D:\DotnetBatch2\Foundation_14Aug\ProjectEulerProblem1\bin\Debug\ProjectEulerProblem1.exe
+D:\DotnetBatch2\Foundation_14Aug\ProjectEulerProblem1\bin\Debug\ProjectEulerProblem1.pdb
+D:\DotnetBatch2\Foundation_14Aug\ProjectEulerProblem1\obj\Debug\ProjectEulerProblem1.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_14Aug\ProjectEulerProblem1\obj\Debug\ProjectEulerProblem1.exe
+D:\DotnetBatch2\Foundation_14Aug\ProjectEulerProblem1\obj\Debug\ProjectEulerProblem1.pdb

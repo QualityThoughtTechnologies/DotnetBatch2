@@ -1,0 +1,6 @@
+D:\DotnetBatch2\Foundation_12Aug\SwitchDemo\bin\Debug\SwitchDemo.exe.config
+D:\DotnetBatch2\Foundation_12Aug\SwitchDemo\bin\Debug\SwitchDemo.exe
+D:\DotnetBatch2\Foundation_12Aug\SwitchDemo\bin\Debug\SwitchDemo.pdb
+D:\DotnetBatch2\Foundation_12Aug\SwitchDemo\obj\Debug\SwitchDemo.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_12Aug\SwitchDemo\obj\Debug\SwitchDemo.exe
+D:\DotnetBatch2\Foundation_12Aug\SwitchDemo\obj\Debug\SwitchDemo.pdb

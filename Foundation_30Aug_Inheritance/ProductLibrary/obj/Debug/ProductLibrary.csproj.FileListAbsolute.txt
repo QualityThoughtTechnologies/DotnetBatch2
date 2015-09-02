@@ -1,0 +1,5 @@
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\ProductLibrary\bin\Debug\ProductLibrary.dll
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\ProductLibrary\bin\Debug\ProductLibrary.pdb
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\ProductLibrary\obj\Debug\ProductLibrary.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\ProductLibrary\obj\Debug\ProductLibrary.dll
+D:\DotnetBatch2\Foundation_30Aug_Inheritance\ProductLibrary\obj\Debug\ProductLibrary.pdb

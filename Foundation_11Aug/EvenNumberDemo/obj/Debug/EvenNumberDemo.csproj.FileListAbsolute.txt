@@ -1,0 +1,5 @@
+D:\DotnetBatch2\Foundation_11Aug\EvenNumberDemo\bin\Debug\EvenNumberDemo.exe.config
+D:\DotnetBatch2\Foundation_11Aug\EvenNumberDemo\bin\Debug\EvenNumberDemo.exe
+D:\DotnetBatch2\Foundation_11Aug\EvenNumberDemo\bin\Debug\EvenNumberDemo.pdb
+D:\DotnetBatch2\Foundation_11Aug\EvenNumberDemo\obj\Debug\EvenNumberDemo.exe
+D:\DotnetBatch2\Foundation_11Aug\EvenNumberDemo\obj\Debug\EvenNumberDemo.pdb

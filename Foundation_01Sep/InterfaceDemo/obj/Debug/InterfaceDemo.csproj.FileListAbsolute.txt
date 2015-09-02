@@ -1,0 +1,10 @@
+D:\DotnetBatch2\Foundation_01Sep\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+D:\DotnetBatch2\Foundation_01Sep\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+D:\DotnetBatch2\Foundation_01Sep\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+D:\DotnetBatch2\Foundation_01Sep\InterfaceDemo\bin\Debug\ImplementationLibrary.dll
+D:\DotnetBatch2\Foundation_01Sep\InterfaceDemo\bin\Debug\InterfaceLibrary.dll
+D:\DotnetBatch2\Foundation_01Sep\InterfaceDemo\bin\Debug\ImplementationLibrary.pdb
+D:\DotnetBatch2\Foundation_01Sep\InterfaceDemo\bin\Debug\InterfaceLibrary.pdb
+D:\DotnetBatch2\Foundation_01Sep\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_01Sep\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+D:\DotnetBatch2\Foundation_01Sep\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

@@ -1,0 +1,5 @@
+D:\DotnetBatch2\Foundation_11Aug\WeekdayDemo\bin\Debug\WeekdayDemo.exe.config
+D:\DotnetBatch2\Foundation_11Aug\WeekdayDemo\bin\Debug\WeekdayDemo.exe
+D:\DotnetBatch2\Foundation_11Aug\WeekdayDemo\bin\Debug\WeekdayDemo.pdb
+D:\DotnetBatch2\Foundation_11Aug\WeekdayDemo\obj\Debug\WeekdayDemo.exe
+D:\DotnetBatch2\Foundation_11Aug\WeekdayDemo\obj\Debug\WeekdayDemo.pdb

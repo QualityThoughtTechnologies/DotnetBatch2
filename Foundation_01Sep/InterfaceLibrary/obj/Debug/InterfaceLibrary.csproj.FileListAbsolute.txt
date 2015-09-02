@@ -1,0 +1,5 @@
+D:\DotnetBatch2\Foundation_01Sep\InterfaceLibrary\bin\Debug\InterfaceLibrary.dll
+D:\DotnetBatch2\Foundation_01Sep\InterfaceLibrary\bin\Debug\InterfaceLibrary.pdb
+D:\DotnetBatch2\Foundation_01Sep\InterfaceLibrary\obj\Debug\InterfaceLibrary.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_01Sep\InterfaceLibrary\obj\Debug\InterfaceLibrary.dll
+D:\DotnetBatch2\Foundation_01Sep\InterfaceLibrary\obj\Debug\InterfaceLibrary.pdb

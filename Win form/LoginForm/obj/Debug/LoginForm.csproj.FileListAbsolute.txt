@@ -1,0 +1,9 @@
+D:\DotnetBatch2\Win form\LoginForm\bin\Debug\LoginForm.exe.config
+D:\DotnetBatch2\Win form\LoginForm\bin\Debug\LoginForm.exe
+D:\DotnetBatch2\Win form\LoginForm\bin\Debug\LoginForm.pdb
+D:\DotnetBatch2\Win form\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Win form\LoginForm\obj\Debug\LoginForm.Form1.resources
+D:\DotnetBatch2\Win form\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+D:\DotnetBatch2\Win form\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+D:\DotnetBatch2\Win form\LoginForm\obj\Debug\LoginForm.exe
+D:\DotnetBatch2\Win form\LoginForm\obj\Debug\LoginForm.pdb

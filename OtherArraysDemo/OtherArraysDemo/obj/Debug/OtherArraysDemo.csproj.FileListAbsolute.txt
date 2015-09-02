@@ -1,0 +1,6 @@
+D:\DotnetBatch2\OtherArraysDemo\OtherArraysDemo\bin\Debug\OtherArraysDemo.exe.config
+D:\DotnetBatch2\OtherArraysDemo\OtherArraysDemo\bin\Debug\OtherArraysDemo.exe
+D:\DotnetBatch2\OtherArraysDemo\OtherArraysDemo\bin\Debug\OtherArraysDemo.pdb
+D:\DotnetBatch2\OtherArraysDemo\OtherArraysDemo\obj\Debug\OtherArraysDemo.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\OtherArraysDemo\OtherArraysDemo\obj\Debug\OtherArraysDemo.exe
+D:\DotnetBatch2\OtherArraysDemo\OtherArraysDemo\obj\Debug\OtherArraysDemo.pdb

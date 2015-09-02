@@ -1,0 +1,7 @@
+D:\DotnetBatch2\Foundation_01Sep\ImplementationLibrary\bin\Debug\ImplementationLibrary.dll
+D:\DotnetBatch2\Foundation_01Sep\ImplementationLibrary\bin\Debug\ImplementationLibrary.pdb
+D:\DotnetBatch2\Foundation_01Sep\ImplementationLibrary\bin\Debug\InterfaceLibrary.dll
+D:\DotnetBatch2\Foundation_01Sep\ImplementationLibrary\bin\Debug\InterfaceLibrary.pdb
+D:\DotnetBatch2\Foundation_01Sep\ImplementationLibrary\obj\Debug\ImplementationLibrary.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_01Sep\ImplementationLibrary\obj\Debug\ImplementationLibrary.dll
+D:\DotnetBatch2\Foundation_01Sep\ImplementationLibrary\obj\Debug\ImplementationLibrary.pdb

@@ -1,0 +1,6 @@
+D:\DotnetBatch2\Foundation_12Aug\PalindromeDemo\bin\Debug\PalindromeDemo.exe.config
+D:\DotnetBatch2\Foundation_12Aug\PalindromeDemo\bin\Debug\PalindromeDemo.exe
+D:\DotnetBatch2\Foundation_12Aug\PalindromeDemo\bin\Debug\PalindromeDemo.pdb
+D:\DotnetBatch2\Foundation_12Aug\PalindromeDemo\obj\Debug\PalindromeDemo.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_12Aug\PalindromeDemo\obj\Debug\PalindromeDemo.exe
+D:\DotnetBatch2\Foundation_12Aug\PalindromeDemo\obj\Debug\PalindromeDemo.pdb
