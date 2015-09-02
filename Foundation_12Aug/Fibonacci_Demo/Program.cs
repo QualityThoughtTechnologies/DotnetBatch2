@@ -17,8 +17,10 @@ namespace Fibonacci_Demo
             string input = Console.ReadLine();
             Console.Write("1 2 ");
             int number = int.Parse(input);
-
-            while (fibonnaci<number)
+            int sum = 2;
+            int index = 1;
+            while(index<=50)
+            //while (fibonnaci<number)
             {
                 fibonnaci = firstNumber + secondNumber;
                 if(fibonnaci>number)
@@ -29,6 +31,11 @@ namespace Fibonacci_Demo
                 Console.Write(" ");
                 firstNumber = secondNumber;
                 secondNumber = fibonnaci;
+                if(fibonnaci%2==0)
+                {
+                    sum += fibonnaci;
+                    index++;
+                }
             }
 
             Console.ReadLine();
