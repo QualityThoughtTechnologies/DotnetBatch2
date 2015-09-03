@@ -43,6 +43,8 @@
     <Compile Include="Bank\NeftTransaction.cs" />
     <Compile Include="Bank\RTGSTransaction.cs" />
     <Compile Include="Bank\SavingsAccount.cs" />
+    <Compile Include="Communications\EmailCommunication.cs" />
+    <Compile Include="Communications\PhoneCommunication.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
