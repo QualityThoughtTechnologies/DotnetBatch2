@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualityThought.Batch2.NamespaceDemo", "QualityThought.Batch2.NamespaceDemo\QualityThought.Batch2.NamespaceDemo.csproj", "{1C75FA15-914B-4034-8B04-1748A94BF290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamespaceLibrary", "NamespaceLibrary\NamespaceLibrary.csproj", "{0A71AEA4-D3A8-4C77-90E1-538C5CEEB15A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C75FA15-914B-4034-8B04-1748A94BF290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C75FA15-914B-4034-8B04-1748A94BF290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C75FA15-914B-4034-8B04-1748A94BF290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C75FA15-914B-4034-8B04-1748A94BF290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A71AEA4-D3A8-4C77-90E1-538C5CEEB15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A71AEA4-D3A8-4C77-90E1-538C5CEEB15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A71AEA4-D3A8-4C77-90E1-538C5CEEB15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A71AEA4-D3A8-4C77-90E1-538C5CEEB15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
