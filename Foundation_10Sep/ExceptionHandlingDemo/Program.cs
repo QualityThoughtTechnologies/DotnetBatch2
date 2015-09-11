@@ -45,7 +45,20 @@ namespace ExceptionHandlingDemo
             {
                 Console.WriteLine("Please visit us again");
             }
-            
+
+            try
+            {
+                throw new ArgumentException();
+                Book book = new Book();
+                book.Display();
+                
+            }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.StackTrace);
+            }
 
         }
     }
