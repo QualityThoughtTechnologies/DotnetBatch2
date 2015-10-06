@@ -13,7 +13,12 @@ namespace DelegateDemo
         MessageConsole messageConsole;
         public Message()
         {
-             messageConsole = new MessageConsole(LogMessage);
+            messageConsole = //new MessageConsole(LogMessage);
+                //anonymous method syntax
+                delegate(string message)
+                {
+                    Console.WriteLine("{0}---->{1}", DateTime.Now, message);
+                };
              messageConsole += Console.WriteLine;
         }
         public void Log(string mesage)
