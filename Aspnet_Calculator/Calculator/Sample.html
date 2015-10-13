@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sample page</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+    <style>
+        .h2class{
+            color:#000000;
+        }
+        #h3ID{
+            color:rgb(255,255,0)
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color:red">Header Tag H1</h1>
+    <p class="h2class">This is paraqgraph</p>
+    <h2 class="h2class">Header Tag H2</h2>
+    <h3 id="h3ID">Header Tag H3</h3>
+    <h4>Header Tag H4</h4>
+
+    <h5>Header Tag H5</h5>
+
+    <h6>Header Tag H6</h6>
+
+    <form id="form">
+        <table>
+            <tr>
+                <td>Date of Join</td>
+                <td><input id="txtdoj" type=text required="required"></td>
+                <td>Batch Number</td>
+                <td><input id="txtbatch" type=text></td>
+                <td>ID Number</td>
+                <td><input id="txtid" type=text></td>
+
+            </tr>
+            <tr>
+                <td colspan="2" rowspan="2">Candidate details</td>
+
+            <tr>
+                <td><label>First Name</label></td>
+                <td><input type=text /></td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td> <input type="radio" /> Male</td>
+                <td> <input type="radio" /> Female</td>
+            </tr>
+            <tr>
+                <td>Cource Details</td>
+            </tr>
+            <tr>
+                <td>Manunal testing</td>
+                <td><input type="checkbox" /></td>
+
+
+            </tr>
+            <tr>
+                <td>Graduation</td>
+                <td>
+                    <select>
+                        <option>B.E</option>
+                        <option>M.E</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Photo</td>
+                <td><img src="Desert.jpg" width="200"></td>
+            </tr>
+            <tr>
+                <td><a href="Calculator.aspx">Calculator</a></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="submit" /></td>
+                <td><input type="button" value="button" /></td>
+                <td><button>Button1</button></td>
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>

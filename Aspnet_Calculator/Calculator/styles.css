@@ -1,0 +1,45 @@
+﻿body {
+    font-size:13px;
+    font-family: arial;
+    /*background-color:#cccccc;
+    background-image:url(Desert.jpg);*/
+    background:url(Desert.jpg) #cccccc repeat-y;
+}
+
+body table input[type=text]{
+     border:1px solid #ff0000;
+}
+
+p{
+
+}
+
+h2.h2class{
+    color:green;
+}
+
+#form {
+    border:1px dashed #ff0000;
+}
+
+#form table {
+    width:50px;
+}
+
+#form table input[type=text] {
+    /*border:1px solid #ff0000;*/
+}
+#form table input[type=button] {
+    background:black;
+    color:#ffffff;
+    margin:10px 15px 20px 5px;
+    margin-top:10px;
+    margin-left:15px;
+    margin-bottom:20px;
+    margin-right:5px;
+
+}
+#form  table input[type=submit]{
+    padding:10px 15px 20px;
+}
+
