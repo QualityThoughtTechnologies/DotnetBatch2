@@ -13,7 +13,8 @@ namespace QualityThoughtWebSample
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Label1.Visible = false;
+            Image1.Visible = false;
         }
 
         protected void btnSubmit_Click(object sender, EventArgs e)
@@ -25,6 +26,12 @@ namespace QualityThoughtWebSample
                 SqlCommand command = new SqlCommand(
                     string.Format("INSERT INTO Courses ([Course Name] ,[Course Description])  VALUES ('{0}','{1}')", txtCourseName.Text, txtCourseDescription.Text), connection);
                 int recordsInserted=command.ExecuteNonQuery();
+                Label1.Text = "Record insertion succesful";
+                Image1.Visible = true;
+                Label1.Visible = true;
+                txtCourseName.Text = string.Empty;
+                txtCourseDescription.Text = string.Empty;
+                
                 
             }
         }

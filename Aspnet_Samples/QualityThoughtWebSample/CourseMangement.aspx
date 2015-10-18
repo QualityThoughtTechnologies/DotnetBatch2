@@ -20,6 +20,9 @@
         </div>
         <div>
             <asp:Button ID="btnSubmit" runat="server" OnClick="btnSubmit_Click" Text="Submit" />
+            <br />
+            <asp:Image ID="Image1" runat="server" Height="20px" ImageUrl="~/Images/download.jpg" Width="23px" />
+            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
         </div>
         <div>
             <asp:GridView ID="GridView1" runat="server" AllowPaging="True" AllowSorting="True" AutoGenerateColumns="False" DataKeyNames="Id" DataSourceID="QualityThoughtDatasource">
