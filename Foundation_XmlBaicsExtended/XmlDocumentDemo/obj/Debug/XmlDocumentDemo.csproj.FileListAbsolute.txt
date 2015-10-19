@@ -1,0 +1,7 @@
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentDemo\bin\Debug\XmlDocumentDemo.exe.config
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentDemo\bin\Debug\Students.xml
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentDemo\bin\Debug\XmlDocumentDemo.exe
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentDemo\bin\Debug\XmlDocumentDemo.pdb
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentDemo\obj\Debug\XmlDocumentDemo.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentDemo\obj\Debug\XmlDocumentDemo.exe
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentDemo\obj\Debug\XmlDocumentDemo.pdb

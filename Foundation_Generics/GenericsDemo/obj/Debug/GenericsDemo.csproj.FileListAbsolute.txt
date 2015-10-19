@@ -1,0 +1,6 @@
+D:\DotnetBatch2\Foundation_Generics\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+D:\DotnetBatch2\Foundation_Generics\GenericsDemo\bin\Debug\GenericsDemo.exe
+D:\DotnetBatch2\Foundation_Generics\GenericsDemo\bin\Debug\GenericsDemo.pdb
+D:\DotnetBatch2\Foundation_Generics\GenericsDemo\obj\Debug\GenericsDemo.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_Generics\GenericsDemo\obj\Debug\GenericsDemo.exe
+D:\DotnetBatch2\Foundation_Generics\GenericsDemo\obj\Debug\GenericsDemo.pdb

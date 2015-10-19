@@ -1,0 +1,6 @@
+D:\DotnetBatch2\Aspnet_Samples\QualityThoughtWebSample\bin\QualityThoughtWebSample.dll.config
+D:\DotnetBatch2\Aspnet_Samples\QualityThoughtWebSample\bin\QualityThoughtWebSample.dll
+D:\DotnetBatch2\Aspnet_Samples\QualityThoughtWebSample\bin\QualityThoughtWebSample.pdb
+D:\DotnetBatch2\Aspnet_Samples\QualityThoughtWebSample\obj\Release\QualityThoughtWebSample.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Aspnet_Samples\QualityThoughtWebSample\obj\Release\QualityThoughtWebSample.dll
+D:\DotnetBatch2\Aspnet_Samples\QualityThoughtWebSample\obj\Release\QualityThoughtWebSample.pdb

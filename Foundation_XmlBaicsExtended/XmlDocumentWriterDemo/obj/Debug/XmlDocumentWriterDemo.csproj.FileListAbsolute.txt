@@ -1,0 +1,5 @@
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentWriterDemo\bin\Debug\XmlDocumentWriterDemo.exe.config
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentWriterDemo\bin\Debug\XmlDocumentWriterDemo.exe
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentWriterDemo\bin\Debug\XmlDocumentWriterDemo.pdb
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentWriterDemo\obj\Debug\XmlDocumentWriterDemo.exe
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XmlDocumentWriterDemo\obj\Debug\XmlDocumentWriterDemo.pdb

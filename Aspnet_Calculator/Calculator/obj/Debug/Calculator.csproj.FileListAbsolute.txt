@@ -1,0 +1,6 @@
+D:\DotnetBatch2\Aspnet_Calculator\Calculator\bin\Calculator.dll.config
+D:\DotnetBatch2\Aspnet_Calculator\Calculator\bin\Calculator.dll
+D:\DotnetBatch2\Aspnet_Calculator\Calculator\bin\Calculator.pdb
+D:\DotnetBatch2\Aspnet_Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Aspnet_Calculator\Calculator\obj\Debug\Calculator.dll
+D:\DotnetBatch2\Aspnet_Calculator\Calculator\obj\Debug\Calculator.pdb

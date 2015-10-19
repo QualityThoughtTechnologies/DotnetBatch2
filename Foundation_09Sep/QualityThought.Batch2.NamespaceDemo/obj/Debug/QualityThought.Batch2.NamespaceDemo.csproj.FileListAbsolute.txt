@@ -1,0 +1,1 @@
+D:\DotnetBatch2\Foundation_09Sep\QualityThought.Batch2.NamespaceDemo\bin\Debug\QualityThought.Batch2.NamespaceDemo.exe.config

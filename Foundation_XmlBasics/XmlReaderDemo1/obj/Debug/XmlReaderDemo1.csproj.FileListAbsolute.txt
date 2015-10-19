@@ -1,0 +1,7 @@
+D:\DotnetBatch2\Foundation_XmlBasics\XmlReaderDemo1\bin\Debug\XmlReaderDemo1.exe.config
+D:\DotnetBatch2\Foundation_XmlBasics\XmlReaderDemo1\bin\Debug\Books.xml
+D:\DotnetBatch2\Foundation_XmlBasics\XmlReaderDemo1\bin\Debug\XmlReaderDemo1.exe
+D:\DotnetBatch2\Foundation_XmlBasics\XmlReaderDemo1\bin\Debug\XmlReaderDemo1.pdb
+D:\DotnetBatch2\Foundation_XmlBasics\XmlReaderDemo1\obj\Debug\XmlReaderDemo1.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_XmlBasics\XmlReaderDemo1\obj\Debug\XmlReaderDemo1.exe
+D:\DotnetBatch2\Foundation_XmlBasics\XmlReaderDemo1\obj\Debug\XmlReaderDemo1.pdb

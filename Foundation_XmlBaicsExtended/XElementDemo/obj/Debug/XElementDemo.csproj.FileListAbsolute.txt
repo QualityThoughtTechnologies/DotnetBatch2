@@ -1,0 +1,6 @@
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XElementDemo\bin\Debug\XElementDemo.exe.config
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XElementDemo\bin\Debug\Students.xml
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XElementDemo\bin\Debug\XElementDemo.exe
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XElementDemo\bin\Debug\XElementDemo.pdb
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XElementDemo\obj\Debug\XElementDemo.exe
+D:\DotnetBatch2\Foundation_XmlBaicsExtended\XElementDemo\obj\Debug\XElementDemo.pdb

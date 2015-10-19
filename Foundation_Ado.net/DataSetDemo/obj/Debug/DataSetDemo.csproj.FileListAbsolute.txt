@@ -1,0 +1,9 @@
+D:\DotnetBatch2\Foundation_Ado.net\DataSetDemo\bin\Debug\DataSetDemo.exe.config
+D:\DotnetBatch2\Foundation_Ado.net\DataSetDemo\bin\Debug\DataSetDemo.exe
+D:\DotnetBatch2\Foundation_Ado.net\DataSetDemo\bin\Debug\DataSetDemo.pdb
+D:\DotnetBatch2\Foundation_Ado.net\DataSetDemo\obj\Debug\DataSetDemo.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_Ado.net\DataSetDemo\obj\Debug\DataSetDemo.Properties.Resources.resources
+D:\DotnetBatch2\Foundation_Ado.net\DataSetDemo\obj\Debug\DataSetDemo.csproj.GenerateResource.Cache
+D:\DotnetBatch2\Foundation_Ado.net\DataSetDemo\obj\Debug\DataSetDemo.exe
+D:\DotnetBatch2\Foundation_Ado.net\DataSetDemo\obj\Debug\DataSetDemo.pdb
+D:\DotnetBatch2\Foundation_Ado.net\DataSetDemo\obj\Debug\DataSetDemo.Form1.resources

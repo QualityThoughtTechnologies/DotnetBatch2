@@ -1,0 +1,5 @@
+D:\DotnetBatch2\Foundation_Delegates\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+D:\DotnetBatch2\Foundation_Delegates\DelegateDemo\bin\Debug\DelegateDemo.exe
+D:\DotnetBatch2\Foundation_Delegates\DelegateDemo\bin\Debug\DelegateDemo.pdb
+D:\DotnetBatch2\Foundation_Delegates\DelegateDemo\obj\Debug\DelegateDemo.exe
+D:\DotnetBatch2\Foundation_Delegates\DelegateDemo\obj\Debug\DelegateDemo.pdb

@@ -1,0 +1,7 @@
+D:\DotnetBatch2\Foundation_XmlBasics\TestApplication\bin\Books.xml
+D:\DotnetBatch2\Foundation_XmlBasics\TestApplication\bin\TestApplication.dll.config
+D:\DotnetBatch2\Foundation_XmlBasics\TestApplication\bin\TestApplication.dll
+D:\DotnetBatch2\Foundation_XmlBasics\TestApplication\bin\TestApplication.pdb
+D:\DotnetBatch2\Foundation_XmlBasics\TestApplication\obj\Release\TestApplication.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\Foundation_XmlBasics\TestApplication\obj\Release\TestApplication.dll
+D:\DotnetBatch2\Foundation_XmlBasics\TestApplication\obj\Release\TestApplication.pdb

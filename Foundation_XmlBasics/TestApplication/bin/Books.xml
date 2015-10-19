@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <Book>
+    <Name>Programming pearls</Name>
+    <Author>Bentley</Author>
+    <Price>400</Price>
+  </Book>
+  <Book>
+    <Name>Professional C#</Name>
+    <Author>Wrox Press</Author>
+    <Price>700</Price>
+  </Book>
+  <Book>
+    <Name>Design and Analysis of algorithms</Name>
+    <Author>Sahni</Author>
+    <Price>550</Price>
+  </Book>
+</Books>
