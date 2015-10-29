@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApplication1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConsoleApplication1_Ip2GeoTestClient_IP2Geo" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ws.cdyne.com/ip2geo/ip2geo.asmx</Value>
+    </Setting>
+    <Setting Name="ConsoleApplication1_CalculatorService_Calculator" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ws1.parasoft.com/glue/calculator</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,6 @@
+D:\DotnetBatch2\TestWebService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\DotnetBatch2\TestWebService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\DotnetBatch2\TestWebService\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\DotnetBatch2\TestWebService\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\TestWebService\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\DotnetBatch2\TestWebService\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

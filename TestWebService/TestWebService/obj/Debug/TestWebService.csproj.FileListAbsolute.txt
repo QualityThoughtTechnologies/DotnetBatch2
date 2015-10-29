@@ -1,0 +1,6 @@
+D:\DotnetBatch2\TestWebService\TestWebService\bin\Debug\TestWebService.dll.config
+D:\DotnetBatch2\TestWebService\TestWebService\bin\Debug\TestWebService.dll
+D:\DotnetBatch2\TestWebService\TestWebService\bin\Debug\TestWebService.pdb
+D:\DotnetBatch2\TestWebService\TestWebService\obj\Debug\TestWebService.csprojResolveAssemblyReference.cache
+D:\DotnetBatch2\TestWebService\TestWebService\obj\Debug\TestWebService.dll
+D:\DotnetBatch2\TestWebService\TestWebService\obj\Debug\TestWebService.pdb
